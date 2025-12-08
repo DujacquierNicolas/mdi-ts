@@ -15,7 +15,7 @@
     "transform-icons": "svg-to-ts-files"
   },
   "devDependencies": {
-    "@commitlint/cli": "^20.1.0",
+    "@commitlint/cli": "^20.2.0",
     "@commitlint/config-conventional": "^20.0.0",
     "@deboxsoft/cpx": "^1.5.0",
     "@mdi/svg": "4.9.95",
